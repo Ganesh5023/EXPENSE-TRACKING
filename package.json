@@ -10,8 +10,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
     "firebase": "^12.10.0",
+    "firebase-admin": "^13.7.0",
+    "jsonwebtoken": "^9.0.3",
     "lucide-react": "^0.575.0",
+    "multer": "^2.1.1",
+    "openai": "^6.26.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "rechart": "^0.0.1",
